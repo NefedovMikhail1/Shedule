@@ -1,0 +1,1754 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Мероприятия 25-26
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+DTSTAMP:20251006T120738Z
+UID:event10@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Промышленный ИТ: IIoT/SCADA\, ИБ АСУ ТП\, облака для заводов\, 
+ AI/аналитика. Площадка для обмена опытом между разработчиками\, цифровыми п
+ одразделениями\, вендорами и интеграторами.
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Industrial++ (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Industrial++ (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+DTSTAMP:20251006T120738Z
+UID:event13@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Российские решения для цифрового предприятия\, внедрение отечес
+ твенных ИТ-решений\, цифровые проекты
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ИТ в промышленности (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ИТ в промышленности (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250919
+DTSTAMP:20251006T120738Z
+UID:event14@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Международный форум Сеймартек ТОиР: Повышение эффективности ТОи
+ Р на предприятиях ТЭК\, горно-металлургического комплекса и машиностроения
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Челябинск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Сеймартек ТОиР. Повышение эффективности ТОиР...(форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Сеймартек ТОиР. Повышение эффективности ТОиР...(фо
+ рум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250919
+DTSTAMP:20251006T120738Z
+UID:event15@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Евразийский международный форум по развитию грузовых авиаперево
+ зок
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NETWORK CARGO 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: NETWORK CARGO 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250920
+DTSTAMP:20251006T120738Z
+UID:event17@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Всероссийская специализированная выставка
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Ижевск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Машиностроение. Металлургия. Металлообработка 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Машиностроение. Металлургия. Металлообработка 2025
+  (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250919
+DTSTAMP:20251006T120738Z
+UID:event3@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:64 международная выставка текстильной и легкой промышленности
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Текстильлегпром. Осень 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Текстильлегпром. Осень 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240920
+DTSTAMP:20251006T120738Z
+UID:event49@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Индустриальные ИТ\, цифровая экономика\, IoT\, AI (ЗАВЕРШЕНО)
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kazan Digital Week (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Kazan Digital Week (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250919
+DTSTAMP:20251006T120738Z
+UID:event4@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:международная выставка техники\, оборудования\, средств автомат
+ изации и роботизации для складской и производственной логистики
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CeMAT RUSSIA 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: CeMAT RUSSIA 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250918
+DTSTAMP:20251006T120738Z
+UID:event5@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Отраслевые сегменты и ниши развития робототехники России и госу
+ дарств-участников ЕАЭС\; Точки роста рынков\; Актуальная аналитика отрасли\
+ , Атлас робототехники ЕАЭС\; Направления и перспективы межгосударственного 
+ сотрудничества\; Маркетплейс робототехнических решений как эффективный инст
+ румент кооперации\;
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WIN RUSSIA: умное производство 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: WIN RUSSIA: умное производство 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250918
+DTSTAMP:20251006T120738Z
+UID:event6@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Специализированная площадка для представителей машиностроительн
+ ой отрасли
+LAST-MODIFIED:20250924T085036Z
+LOCATION:Беларусь\, Минск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Международный Саммит Машиностроения. Беларусь 2025 (форум\, Беларус
+ ь)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Международный Саммит Машиностроения. Беларусь 2025
+  (форум\, Беларусь)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+DTSTAMP:20251006T120738Z
+UID:event7@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Специализированная выставка
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Воронеж \, Воронежский Концерт. Зал
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Металлообработка и сварка 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Металлообработка и сварка 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250925
+DTSTAMP:20251006T120738Z
+UID:event8@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Специализированная конференция по промышленной автоматизации и 
+ встраиваемым системам
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Челябинск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Передовые Технологии Автоматизации (ПТА). Челябинск 2025 (форум\, Р
+ Ф)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Передовые Технологии Автоматизации (ПТА). Челябинс
+ к 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250920
+DTSTAMP:20251006T120738Z
+UID:event96@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Промышленное оборудование\, Системы автоматизации\, Промышленна
+ я автоматизация\, Сиситемы автоматизации.
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Ижевск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Промышленный форум Удмуртии 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Промышленный форум Удмуртии 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+DTSTAMP:20251006T120738Z
+UID:event99@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Главная тема: «Путь к технологическому лидерству. Роботы и гене
+ ративные нейросети»
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Воронеж\, Воронежский Концерт. Зал
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Воронежский промышленный форум 2025 (форум-выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Воронежский промышленный форум 2025 (форум-выставк
+ а\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250927
+DTSTAMP:20251006T120738Z
+UID:event9@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Цифровизация\, ИБ\, ИТ в медицине\, ИТ в промышленности\, ИИ\, 
+ Умный город\, ИТ в ЖКХ\, АПК\, импортозамещение
+LAST-MODIFIED:20250924T085036Z
+LOCATION:РФ\, Курган
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ПроIT. Цифровизация реального сектора экономики (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ПроIT. Цифровизация реального сектора экономики (ф
+ орум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250912
+DTSTAMP:20251006T120738Z
+UID:event2@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Международная выставка деловой авиации
+LAST-MODIFIED:20250924T100216Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RUBAE 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: RUBAE 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250927
+DTSTAMP:20251006T120738Z
+UID:event19@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://www.nevainter.com/?ysclid=mfxvykbbs713
+ 4264261">Главная - Выставка и конференция «НЕВА»</a>  Международная выставк
+ а и конференция по судостроению\, судоходству\, деятельности портов и освое
+ нию океана и шельфа
+LAST-MODIFIED:20250925T114557Z
+LOCATION:РФ\, Санкт-Петербург\, КВЦ «Экспофорум»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Нева 2025 (форум\, РФ) (выставка и конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Нева 2025 (форум\, РФ) (выставка и конференция\, Р
+ Ф)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251004
+DTSTAMP:20251006T120738Z
+UID:event21@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://maif.rivc-pulkovo.ru/">Международный А
+ виационный Инновационный Форум</a>  Импортозамещение и развитие ИТ в авиаци
+ и\; инновационные технологии наземного обслуживания воздушных судов\; цифро
+ визация производственных процессов авиакомпании\; цифровые решения финансов
+ о-экономических задач\; и др.
+LAST-MODIFIED:20250925T114948Z
+LOCATION:РФ\, Санкт-Петербург
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Международный авиационный инновационный форум 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Международный авиационный инновационный форум 2025
+  (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251010
+DTSTAMP:20251006T120738Z
+UID:event23@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://expouav.ru/7-9_october_2025?ysclid=mfx
+ wq8f99j580399284">Форум Защита гражданских объектов от атак беспилотных сис
+ тем и коммерческая эксплуатация БАС</a>  <br>Форум по коммерческой эксплуат
+ ации БАС и защите гражданских объектов от атак БПЛА 2025
+LAST-MODIFIED:20250925T115719Z
+LOCATION:РФ\, Санкт-Петербург
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Коммерческая эксплуатация БАС 2025 (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Коммерческая эксплуатация БАС 2025 (конференция\, 
+ РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DTEND;VALUE=DATE:20251024
+DTSTAMP:20251006T120738Z
+UID:event24@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://morvesti.ru/spez/1701/115165/?utm_sour
+ ce=expomap.ru">XIII ежегодная конференция «ТЕХНИКА И ТЕХНОЛОГИИ ДЛЯ ПОРТОВ 
+ И ГРУЗОВЫХ ТЕРМИНАЛОВ».</a><br>Рынок ПТО: спрос и предложение\; Сделано в Р
+ оссии: от конструкторской документации к серийному производству\; Импортное
+  погрузочно-разгрузочное оборудование: новые возможности насыщения рынка\; 
+ Искусственный интеллект и автоматизация на грузовом терминале\; Мониторинг 
+ технического состояния\, сервис и ремонт.
+LAST-MODIFIED:20250925T115833Z
+LOCATION:РФ\, Санкт-Петербург
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Техника и технологии для портов и грузовых терминалов Санкт-Петербу
+ рг 2025 (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Техника и технологии для портов и грузовых термина
+ лов Санкт-Петербург 2025 (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251018
+DTSTAMP:20251006T120738Z
+UID:event25@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://b95.ru/news/novosti/priglashaem-k-ucha
+ stiyu-v-mezhdunarodnoy-vystavke-tekhnologiy-mashinostroeniya-apk-interdrayv
+ /">АПК «ИНТЕРДРАЙВ»</a> <br>  Международная выставка технологий машинострое
+ ния АПК
+LAST-MODIFIED:20250925T120056Z
+LOCATION:РФ\, Санкт-Петербург\, КВЦ «Экспофорум»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Интердрайв 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Интердрайв 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251024
+DTSTAMP:20251006T120738Z
+UID:event27@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://www.pcvexpo.ru/ru-RU?ysclid=mfxy7s7mgl
+ 271774528">PCVExpo </a><br>Международная выставка промышленных насосов\, ко
+ мпрессоров и трубопроводной арматуры\, приводов и двигателей
+LAST-MODIFIED:20250925T120648Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PCVExpo 2025  (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: PCVExpo 2025  (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251024
+DTSTAMP:20251006T120738Z
+UID:event28@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://www.gassuf.ru/ru-RU?ysclid=mfxy8qz7cf1
+ 6646727">GasSuf</a><br>Международная выставка газобаллонного\, газозаправоч
+ ного оборудования и техники на газомоторном топливе
+LAST-MODIFIED:20250925T120820Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GasSuf 2025  (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: GasSuf 2025  (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251025
+DTSTAMP:20251006T120738Z
+UID:event29@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://smartgopro.com/innovation_tech_days/?u
+ tm_campaign=global_digital_space">AI &amp\; Innovation Tech Days </a><br>Он
+ лайн конференция-выставка. Инновации\, ИТ в промышленности\, IoT\, ML\, ИИ\
+ , Роботизация
+LAST-MODIFIED:20250925T121147Z
+LOCATION:РФ\, Москва
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:AI Innovation Tech Days (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: AI Innovation Tech Days (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+DTSTAMP:20251006T120738Z
+UID:event30@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://proforum.automiq.ru/">Форум PROавтомат
+ изацию</a><br>Экспортный потенциал российских инструментов автоматизации» б
+ удет посвящен вопросам вывода отечественных программных и аппаратных решени
+ й и технологий АСУ ТП на международные рынки и их роли в обеспечении технол
+ огического суверенитета России.
+LAST-MODIFIED:20250925T121716Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRO автоматизацию (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: PRO автоматизацию (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251011
+DTSTAMP:20251006T120738Z
+UID:event31@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://nmf-expo.ru/?ysclid=mfxyeueep360932944
+ 8">Выставка по металлообработке NMF-EXPO</a> <br>Международная выставка обо
+ рудования\, инструмента и технологий для металлообработки
+LAST-MODIFIED:20250925T121853Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NMF EXPO 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: NMF EXPO 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251004
+DTSTAMP:20251006T120738Z
+UID:event33@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://tempkazan.ru/?ysclid=mfxyhq2pi41312199
+ 03">Форум "ТЕМП" — Глобальный Форум по металлообработке и аддитивным технол
+ огиям "ТЕМП"</a><br>Глобальный форум и выставка по металлообработке
+LAST-MODIFIED:20250925T122137Z
+LOCATION:РФ\, Казань\, МВЦ «Казань Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ТЕМП 2025(выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ТЕМП 2025(выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+DTSTAMP:20251006T120738Z
+UID:event35@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка:  <a href="https://www.pta-expo.ru/siberia/?ysclid=mfxyl
+ hoa7j951733248">ПТА-Новосибирск</a><br>Специализированная конференция по пр
+ омышленной автоматизации и встраиваемым системам
+LAST-MODIFIED:20250925T122252Z
+LOCATION:РФ\, Новосибирск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Передовые Технологии Автоматизации (ПТА). Новосибирск 2025 (конфере
+ нция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Передовые Технологии Автоматизации (ПТА). Новосиби
+ рск 2025 (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251101
+DTSTAMP:20251006T120738Z
+UID:event36@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылки: <a href="https://promexpo.expoforum.ru/ru/">Российский 
+ промышленник 2025</a><br>ИНДУСТРИАЛИЗАЦИЯ КАК ФУНДАМЕНТ НАЦИОНАЛЬНЫХ ПРОЕКТ
+ ОВ
+LAST-MODIFIED:20250925T122346Z
+LOCATION:РФ\, Санкт-Петербург\, КВЦ «Экспофорум»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Российский промышленник 2025 (выставка-форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Российский промышленник 2025 (выставка-форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251128
+DTSTAMP:20251006T120738Z
+UID:event38@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://seymartec.ru/digital-2025/">Международ
+ ный форум. Цифровая трансформация в промышленности - 2025 | Сеймартек</a><b
+ r>Цифровая трансформация в горной добыче\, металлургии\, энергетике и нефте
+ газовой отрасли
+LAST-MODIFIED:20250925T122553Z
+LOCATION:РФ\, Челябинск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Seymartec Digital 2025 (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Seymartec Digital 2025 (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T120738Z
+UID:event39@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://lodkiexpo.ru/?ysclid=mfxys0fngv7153413
+ 34">Лодки Экспо - Выставка\, посвящённая всем видам водной техники.</a><br>
+ Международная выставка отдыха на воде
+LAST-MODIFIED:20250925T123145Z
+LOCATION:РФ\, Москва\, КВЦ «Патриот»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Лодки Экспо 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Лодки Экспо 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251122
+DTSTAMP:20251006T120738Z
+UID:event40@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://roboticsweek.ru/?ysclid=mfxytop4sj6546
+ 12604">Российская неделя роботизации – Международный Форум роботизации</a><
+ br>Комплекс конгрессно-выставочных мероприятий по роботизации\, Международн
+ ый Форум роботизации с ведущими спецами отрасли\, студенческие соревнования
+ \, семинары и мастер-классы.
+LAST-MODIFIED:20250925T123250Z
+LOCATION:РФ\, Санкт-Петербург
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Российская неделя роботизации 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Российская неделя роботизации 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251122
+DTSTAMP:20251006T120738Z
+UID:event41@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://roboticsweek.ru/?ysclid=mfxytop4sj6546
+ 12604">Российская неделя роботизации – Международный Форум роботизации</a><
+ br>Робототехническая продукция\, системы программирования и управления высо
+ котехнологическим оборудованием с искусственным интеллектом.
+LAST-MODIFIED:20250925T123343Z
+LOCATION:РФ\, Санкт-Петербург
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Международный Форум роботизации 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Международный Форум роботизации 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+DTSTAMP:20251006T120738Z
+UID:event42@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://aviacenter.events/airports_development
+ _2025/?ysclid=mfxyw7bri254275037">AVIACENTER</a><br>Финансирование развития
+  аэропортов\, инвестиции\, реализации проектов государственно-частного парт
+ нёрства ГЧП
+LAST-MODIFIED:20250925T123453Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Развитие аэропортов 2025 (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Развитие аэропортов 2025 (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251115
+DTSTAMP:20251006T120738Z
+UID:event44@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://prombvk.ru/?ysclid=mfxzncp3yj470586876
+ ">Российский промышленный форум 2025</a> <br>Российский промышленный форум<
+ br>Специализированные выставки<br>«Машиностроение»\, «Металлообработка»\, «
+ Инновационный потенциал Уфы» <br>Специализированные выставки в рамках Росси
+ йского промышленного форума. Аддитивные технологии. Промышленная 3Д-печать\
+ ; Индустрия 4.0\; Сварочное оборудование и материалы\; Робототехника и авто
+ матизация производства\; Ретрофитинг\; Металлургия\; Экология в промышленно
+ сти и др.
+LAST-MODIFIED:20250925T124256Z
+LOCATION:РФ\, Уфа\, ВК Экспо
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Российский промышленный форум (выставка-форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Машиностроение. Металлообработка 2025 (выставка-фо
+ рум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251119
+DTSTAMP:20251006T120738Z
+UID:event45@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://techweek.moscow/?ysclid=mfxzr32eq12411
+ 84498">TECH WEEK 2025 | Мероприятие об инновационных технологиях в бизнесе<
+ /a><br>Конференция по цифровым технологиям\, ИИ и инновационным решениям
+LAST-MODIFIED:20250925T124439Z
+LOCATION:РФ\, Москва\, Кластер «Ломоносов»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TECH WEEK (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: TECH WEEK (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+DTSTAMP:20251006T120738Z
+UID:event46@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://www.comnews-conferences.ru/ru/conferen
+ ce/industry2025">О форуме | Цифропром | ComNews Conferences</a><br>Федераль
+ ный форум по ИТ и цифровизации в промышленности «Цифропром» и выставка инно
+ вационных технологий «Прикоснись к цифровизации». Площадка для обсуждения ц
+ ифровизации\, импортонезависимых решений\, практик внедрения.
+LAST-MODIFIED:20250925T124542Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Цифропром (выставка-форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Цифропром (выставка-форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251108
+DTSTAMP:20251006T120738Z
+UID:event48@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://highload.ru/moscow/2025">HighLoad++ 20
+ 25 - Крупнейшая профессиональная конференция для разработчиков высоконагруж
+ енных систем</a><br>Высоконагруженные системы\, архитектура\, базы\, DevOps
+ /SRE
+LAST-MODIFIED:20250925T130711Z
+LOCATION:Инновационный центр Сколково\, Московская обл.\, Россия
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HighLoad++ (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: HighLoad++ (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260131
+DTSTAMP:20251006T120738Z
+UID:event60@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://recycling-solutions.ru/?ysclid=mfy30b8
+ nl335687144">Recycling Solutions - recycling-solutions</a><br>Выставка по п
+ ереработке и утилизации отходов
+LAST-MODIFIED:20250925T133521Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RECYCLING SOLUTIONS 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: RECYCLING SOLUTIONS 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260131
+DTSTAMP:20251006T120738Z
+UID:event61@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://ruplastica.ru/2026">RUPLASTICA 2026</a
+ ><br>Международная специализированная выставка пластмасс и каучуков
+LAST-MODIFIED:20250925T133617Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RUPLASTICA 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: RUPLASTICA 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20251006T120738Z
+UID:event62@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://chemicos.ru/ru">ChemiCos</a><br>Специа
+ лизированная экспозиция оборудования\, химического сырья\, полимеров для ор
+ ганизации полного цикла производства МСТХ
+LAST-MODIFIED:20250925T133742Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ChemiCos Industry 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ChemiCos Industry 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260314
+DTSTAMP:20251006T120738Z
+UID:event63@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://raiexpo.ru/">Робототехника и Искусстве
+ нный Интелект</a><br>Выставка проводится в рамках ФОРУМА ТЕХНОЛОГИЙ БЕЗОПАС
+ НОСТИ ДЛЯ ТОПЛИВНО-ЭНЕРГЕТИЧЕСКОГО КОМПЛЕКСА "БЕЗОПАСНОСТЬ ТЭК".
+LAST-MODIFIED:20250925T133942Z
+LOCATION:РФ\, Москва\, ВДНХ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Роботехника и искусственный интеллект 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Роботехника и искусственный интеллект 2026 (выстав
+ ка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260307
+DTSTAMP:20251006T120738Z
+UID:event65@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://mashexpo-siberia.ru/?ysclid=mfy3jnn3ic
+ 760050643">Выставка металлообработки и сварки - МашЭкспо Сибирь 2026</a><br
+ >Международная промышленная выставка
+LAST-MODIFIED:20250925T134138Z
+LOCATION:РФ\, Новосибирск\, МВК «Новосибирск Экспоцентр»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МашЭкспо Сибирь-2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: МашЭкспо Сибирь-2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260417
+DTSTAMP:20251006T120738Z
+UID:event66@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://hitech-expo.ru/?ysclid=mfy3l50dnp28098
+ 7382">Выставка и конкурс инновационных проектов HI-TECH</a><br>Международна
+ я выставка инноваций
+LAST-MODIFIED:20250925T134256Z
+LOCATION:РФ\, Санкт-Петербург\, КВЦ «Экспофорум»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HiTech 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: HiTech 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260417
+DTSTAMP:20251006T120738Z
+UID:event67@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://ptfair.ru/?ysclid=mfy47356p3200457482"
+ >Петербургская техническая ярмарка</a><br>Специализированная промышленная в
+ ыставка в области металлургии\, машиностроения и инноваций
+LAST-MODIFIED:20250925T134322Z
+LOCATION:РФ\, Санкт-Петербург\, КВЦ «Экспофорум»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Петербургская техническая ярмарка (ПТЯ) 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Петербургская техническая ярмарка (ПТЯ) 2026 (выст
+ авка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260516
+DTSTAMP:20251006T120738Z
+UID:event68@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://rusweld-expo.ru/?ysclid=mfy4829rf33244
+ 41052">Выставка RUSWELD: оборудование\, технологии и материалы для процессо
+ в сварки и резки</a><br>Международная специализированная выставка «Оборудов
+ ание\, технологии и материалы для процессов сварки и резки»
+LAST-MODIFIED:20250925T134548Z
+LOCATION:Москва\, Россия
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rusweld 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Rusweld 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260516
+DTSTAMP:20251006T120738Z
+UID:event69@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://www.metobr-expo.ru/?ysclid=mfy49c7jow1
+ 23407837">МЕТАЛЛООБРАБОТКА-2026: выставка оборудования\, приборов и инструм
+ ентов для металлообрабатывающей промышленности</a><br>Выставка металлообраб
+ атывающего оборудования\, автоматизации\, робототехники и др.
+LAST-MODIFIED:20250925T134639Z
+LOCATION:РФ Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МЕТАЛЛООБРАБОТКА - 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: МЕТАЛЛООБРАБОТКА - 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260516
+DTSTAMP:20251006T120738Z
+UID:event70@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://www.technoforum-expo.ru/?ysclid=mfy4a5
+ b1la62357453">ТЕХНОФОРУМ. Оборудование и технологии обработки конструкционн
+ ых материалов</a><br>Международная специализированная выставка «Оборудовани
+ е и технологии обработки конструкционных материалов»
+LAST-MODIFIED:20250925T134716Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Технофорум 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Технофорум 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260530
+DTSTAMP:20251006T120738Z
+UID:event71@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://cto-expo.ru/?ysclid=mfy4bwmjar59359736
+ 7">CTO Expo – Международная выставка запчастей\, послепродажного обслуживан
+ ия и сервиса</a><br>Международная выставка запчастей\, послепродажного обсл
+ уживания и сервиса
+LAST-MODIFIED:20250925T134817Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CTO Expo 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: CTO Expo 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20251006T120738Z
+UID:event73@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://helirussia.ru/">Главная страница</a><b
+ r>Международная выставка вертолетной индустрии
+LAST-MODIFIED:20250925T134904Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HeliRussia 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: HeliRussia 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260206
+DTSTAMP:20251006T120738Z
+UID:event74@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://naisrussia.ru/?ysclid=mfy4pbmf1m380807
+ 887">НАИС - Национальный авиационный инфраструктурный салон</a><br>Национал
+ ьный авиационный инфраструктурный салон
+LAST-MODIFIED:20250925T134949Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:НАИС 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: НАИС 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260206
+DTSTAMP:20251006T120738Z
+UID:event75@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://naisrussia.ru/?ysclid=mfy4pbmf1m380807
+ 887">НАИС - Национальный авиационный инфраструктурный салон</a><br>Выставка
+  беспилотных систем\, роботизированных и автономных решений
+LAST-MODIFIED:20250925T135030Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ДРОНТЕХ 2026  (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ДРОНТЕХ 2026  (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260302
+DTSTAMP:20251006T120738Z
+UID:event76@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://naisrussia.ru/?ysclid=mfy4pbmf1m380807
+ 887">НАИС - Национальный авиационный инфраструктурный салон</a><br>Междунар
+ одная выставка катеров и яхт
+LAST-MODIFIED:20250925T135114Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Московское Боут Шоу / Moscow Boat Show 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Московское Боут Шоу / Moscow Boat Show 2026 (выста
+ вка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260305
+DTSTAMP:20251006T120738Z
+UID:event77@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://www.mrorussia.ru/?ysclid=mfy4z4wmg8283
+ 790680">ТОиР ВС в России</a><br>Конференция авиапромышленности
+LAST-MODIFIED:20250925T135257Z
+LOCATION:РФ Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ТОиР ВС 2026 (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Настоящее и будущее техобслуживания воздушных судо
+ в 2026 (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260630
+DTSTAMP:20251006T120738Z
+UID:event78@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://vld.nevacongress.com/?ysclid=mfy57ykpf
+ q208782415">Главная. Морской конгресс – Дальний Восток. Уникальная платформ
+ а для развития деловых контактов\, обмена опытом и презентации возможностей
+  морской индустрии</a><br>Отраслевое конгрессно-выставочное мероприятие
+LAST-MODIFIED:20250925T135348Z
+LOCATION:РФ\, Владивосток
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Морской конгресс -- Дальний Восток 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Морской конгресс -- Дальний Восток 2026 (выставка\
+ , РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20251006T120738Z
+UID:event79@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://vld.nevacongress.com/?ysclid=mfy57ykpf
+ q208782415">Главная. Морской конгресс – Дальний Восток. Уникальная платформ
+ а для развития деловых контактов\, обмена опытом и презентации возможностей
+  морской индустрии</a><br>Международная выставка автокомпонентов и оборудов
+ ания
+LAST-MODIFIED:20250925T135436Z
+LOCATION:РФ\, Санкт-Петербург\, КВЦ «Экспофорум»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MIMS Automobility Saint Petersburg 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: MIMS Automobility Saint Petersburg 2026 (выставка\
+ , РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+DTSTAMP:20251006T120738Z
+UID:event94@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:<a href="https://intekprom.com/events/upcoming_events/mashforum
+ -25/?ysclid=mfyaye4l7z102776092">https://intekprom.com/events/upcoming_even
+ ts/mashforum-25/?ysclid=mfyaye4l7z102776092</a><br>«От модернизации к эффек
+ тивности: машиностроение на новом витке».
+LAST-MODIFIED:20250925T142416Z
+LOCATION:РФ\, Санкт-Петербург\, Airportcity Plaza
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:INTEKPROM МАШФОРУМ 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: INTEKPROM МАШФОРУМ 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251011
+DTSTAMP:20251006T120738Z
+UID:event97@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:Ссылка: <a href="https://weldex.ru/ru/?ysclid=mfybep2rwu3310301
+ 4">Международная выставка Weldex 2025</a><br>Специализированная выставка
+LAST-MODIFIED:20250925T142607Z
+LOCATION:РФ\, Москва\, МВЦ «Крокус Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weldex 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Weldex 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251122
+DTSTAMP:20251006T120738Z
+UID:event98@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:<a href="https://www.krasfair.ru/events/spf/?ysclid=mfyblsvrup2
+ 09202718">«Металлообработка и сварка» - Красноярская ярмарка</a><br>Специал
+ изированная выставка
+LAST-MODIFIED:20250925T142651Z
+LOCATION:РФ\, Красноярск\, МВДЦ «Сибирь»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Металлообработка и сварка 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Металлообработка и сварка 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260326
+DTSTAMP:20251006T120738Z
+UID:event101@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://intersib.org/promtehexpo/?ysclid=mfz6eou4z0647
+ 148013">ПРОМТЕХЭКСПО - СИБИРСКИЙ ПРОМЫШЛЕННО-ИННОВАЦИОННЫЙ ФОРУМ</a><br>Сиб
+ ирский промышленно-инновационный форум: Машиностроение. Металлообработка. С
+ варка. Автоматизация. ИТ-решения. Цифровизация. Пром.робототехника.
+LAST-MODIFIED:20250925T142833Z
+LOCATION:РФ\, Омск
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ПромТехЭкспо 2026 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ПромТехЭкспо 2026 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260710
+DTSTAMP:20251006T120738Z
+UID:event102@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://www.tourister.ru/world/europe/russia/city/ekat
+ erinburg/parades/32990?ysclid=mfz6h1c31w766263487">ИННОПРОМ 2025\, Екатерин
+ бург — даты выставки\, сайт\, регистрация\, программа\, отели рядом\, как д
+ обраться</a><br>Промышленное производство\, Наука и новые технологии\, Мате
+ риалы\, Энергетическая промышленность\, Инновационные разработки\, Машиност
+ роение.
+LAST-MODIFIED:20250925T142936Z
+LOCATION:РФ\, Екатеринбург\, МВЦ «Екатеринбург-Экспо».
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ИННОПРОМ 2026  (форум-выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ИННОПРОМ 2026  (форум-выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20251006T120738Z
+UID:event103@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://xn----7sbbqerslfjzf3d.xn--p1ai/">Главн
+ ая</a><br>Основные тематические направления: Наука и новые технологии\, Изо
+ бретения\, Инновационные технологии
+LAST-MODIFIED:20250925T143024Z
+LOCATION:РФ\, Москва\, Бизнес-центр «Амбер Плаза»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Архимед 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Архимед 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260321
+DTSTAMP:20251006T120738Z
+UID:event106@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://metal-ekb.proexpo.ru/?ysclid=mfz6uj17qf5074030
+ 02">Международная выставка Металлообработка. Сварка – 2026 Екатеринбург.</a
+ ><br>Специализированная выставка технологий и оборудования для машиностроен
+ ия\, металлообрабатывающей промышленности и сварочного производства
+LAST-MODIFIED:20250925T143258Z
+LOCATION:РФ\, Екатеринбург\, МВЦ «Екатеринбург-Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Металлообработка. Сварка 2026 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Металлообработка. Сварка 2026 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251031
+DTSTAMP:20251006T120738Z
+UID:event109@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://mining.uz/ru/main?ysclid=mfz70523jf15209595">M
+ iningMetals Uzbekistan</a> <br>Горные породы\, Горное оборудование\, Горнод
+ обывающая промышленность\, Металлургия\, Горнодобывающее оборудование.
+LAST-MODIFIED:20250925T143541Z
+LOCATION:Узбекистан\, Ташкент\, НВК «Узэкспоцентр»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MiningMetals Uzbekistan 2025 (выставка\, Узбекистан)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: MiningMetals Uzbekistan 2025 (выставка\, Узбекиста
+ н)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260410
+DTSTAMP:20251006T120738Z
+UID:event112@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://ieg.uz/uzmetalmashexpo">UzmetalMashExpo</a><br
+ >Металлургическое оборудование\, Машиностроение\, Станки\, Металлообработка
+ .
+LAST-MODIFIED:20250925T144023Z
+LOCATION:Узбекистан\, Ташкент\, НВК «Узэкспоцентр»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:UzMetalMashExpo 2026  (выставка\, Узбекистан)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: UzMetalMashExpo 2026  (выставка\, Узбекистан)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260411
+DTSTAMP:20251006T120738Z
+UID:event113@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://www.minskexpo.com/mashinostroenie">Машинострое
+ ние </a><br>Машиностроение\, Промышленное оборудование\, Промышленное обору
+ дование\, Робототехника\, Промышленное оборудование\, Обрабатывающие технол
+ огии\, Роботехника\, Машиностроение
+LAST-MODIFIED:20250925T144112Z
+LOCATION:Беларусь\, Минск\, Минский футбольный манеж
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Машиностроение 2026 (выставка\, Беларусь)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Машиностроение 2026 (выставка\, Беларусь)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260404
+DTSTAMP:20251006T120738Z
+UID:event114@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://www.kmfexpo.kz/?ysclid=mfz7cdr9rb906151954">Ka
+ zakhstan Machinery Fair 2026 | RU</a><br>Станки\, Сварочные работы и оборуд
+ ование\, Промышленное оборудование\, Робототехника\, Контрольно-измерительн
+ ая техника\, Металлообработка\, Промышленные технологии\, Промышленное обор
+ удование\, Промышленные технологии\, Роботехника.
+LAST-MODIFIED:20250925T144144Z
+LOCATION:Казахстан\, Астана \, МВЦ «EXPO»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kazakhstan Machinery Fair 2026(выставка\, Казахстан)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Kazakhstan Machinery Fair 2026(выставка\, Казахста
+ н)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251108
+DTSTAMP:20251006T120738Z
+UID:event108@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:<a href="https://airportexpo.kz/?trk=organization_guest_main-fe
+ ed-card-text">https://airportexpo.kz/?trk=organization_guest_main-feed-card
+ -text</a><br>Оборудование и технологии для аэропортов\, Авиационно-космичес
+ кое машиностроение\, Авиация\, Авиационные технологии\, Авиакосмическая про
+ мышленность.
+LAST-MODIFIED:20250925T150002Z
+LOCATION:Казахстан\, Астана
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Отменено меоприятие! Airport Expo 2025 (выставка\, Казахстан)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Airport Expo 2025 (выставка\, Казахстан)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250919
+DTSTAMP:20251006T120738Z
+UID:event1@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Евразийский форум по развитию авиационных маршрутов
+LAST-MODIFIED:20250930T092149Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NETWORK 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: NETWORK 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250913
+DTSTAMP:20251006T120738Z
+UID:event16@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Промышленно-энергетический форум
+LAST-MODIFIED:20250930T094919Z
+LOCATION:РФ\, Тюмень
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TNF 2025 (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: TNF 2025 (форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250927
+DTSTAMP:20251006T120738Z
+UID:event100@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://metal.proexpo.ru/?ysclid=mfz6co1agx218
+ 882183">https://metal.proexpo.ru/?ysclid=mfz6co1agx218882183</a><br>Специал
+ изированная выставка металлургии и машиностроения
+LAST-MODIFIED:20250930T095522Z
+LOCATION:РФ\, Пермь\, КВЦ «Пермь Экспо»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Металлообработка. Металлургия 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Металлообработка. Металлургия 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250927
+DTSTAMP:20251006T120738Z
+UID:event18@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://prom-salon.ru/?ysclid=mfxvx5pkc3408086
+ 793">Выставка "Промышленный салон".</a><br>Межрегиональная выставка техноло
+ гий и оборудования для машиностроения и металлообрабатывающей промышленност
+ и
+LAST-MODIFIED:20250930T095835Z
+LOCATION:РФ\, Самара\, ВЦ «Экспо-Волга»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Промышленный салон 2025 (выставка-форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Промышленный салон 2025 (выставка-форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20251006T120738Z
+UID:event20@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="http://spibs.ru/" target="_blank">SPIBS 2025</
+ a> <br>Выставка яхт и катеров
+LAST-MODIFIED:20250930T100323Z
+LOCATION:РФ\, Санкт-Петербург
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:St. Petersburg International Boat Show 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: St. Petersburg International Boat Show 2025 (выста
+ вка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+DTSTAMP:20251006T120738Z
+UID:event11@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://aiconf.ru/2025/" target="_blank"><u>Ai
+ Conf 2025</u></a><br>Прикладная конференция по Data Science
+LAST-MODIFIED:20250930T100403Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AI Conf X (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: AI Conf X (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251005
+DTSTAMP:20251006T120738Z
+UID:event12@custom.calendar
+CREATED:20250924T085032Z
+DESCRIPTION:Ссылка: <a href="https://digitalbridge.kz/ru/?lang=RU&ysclid=mf
+ xvdkvyai985209802" target="_blank">Digital Bridge 2025</a> <br>Крупнейшая т
+ ехническая площадка РК: Astana Hub\, AI\, стартап-экосистема\, инвестиции
+LAST-MODIFIED:20250930T101333Z
+LOCATION:Казахстан\, Астана
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Digital Bridge (форум\, Казахстан)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Digital Bridge (форум\, Казахстан)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251115
+DTSTAMP:20251006T120738Z
+UID:event95@custom.calendar
+CREATED:20250924T085034Z
+DESCRIPTION:<a href="https://www.metal-expo.ru/ru/otherprojects?ysclid=mfyb
+ 0x3fh6599866737" target="_blank">Металл-Экспо 2025 в КВЦ "Экспофорум"</a><b
+ r>Международная выставка оборудования и технологий для металлургии и металл
+ ообработки
+LAST-MODIFIED:20250930T114904Z
+LOCATION:РФ\, Санкт-Петербург\, КВЦ «Экспофорум»
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:МеталлургМаш 2025 (выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: МеталлургМаш 2025 (выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251006T120738Z
+UID:event37@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:Ссылка: <a href="https://morvesti.ru/spez/1701/115166/" target=
+ "_blank">«РЕЧНАЯ ИНФРАСТРУКТУРА: МОДЕРНИЗАЦИЯ И ТОЧКИ РОСТА»</a><br>Развити
+ е водных путей\, судоходства\, портов\, экономик речных регионов\, водного 
+ туризма\, редевелопмента прибрежных территорий\,<br>новейшие технологии и и
+ нновации для строительства и эксплуатации ВВП
+LAST-MODIFIED:20250930T121257Z
+LOCATION:РФ\, Москва
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Речная инфраструктура: модернизация и точки роста 2025 (выставка-фо
+ рум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Речная инфраструктура: модернизация и точки роста 
+ 2025 (выставка-форум\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260601
+DTSTAMP:20251006T120738Z
+UID:event55@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:<b>нет инф о ближайшем мероприятии</b><br>Big Data/Cloud/AI\, Ц
+ ОДы и прикладная аналитика
+LAST-MODIFIED:20250930T133534Z
+LOCATION:Зарубежная
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:China International Big Data Expo (выставка\, Китай)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: China International Big Data Expo (выставка\, Кита
+ й)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260601
+DTSTAMP:20251006T120738Z
+UID:event56@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:<b>нет инф о ближайшем мероприятии</b><br>Разработчики\, сообще
+ ства\, API\, SDK\, документация
+LAST-MODIFIED:20250930T133741Z
+LOCATION:РФ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DevRelConf (конференция\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: DevRelConf (конференция\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260601
+DTSTAMP:20251006T120738Z
+UID:event54@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:<b>Дата мероприятия на уточнении<br></b>Ссылка на мероприятие 2
+ 025: <a href="https://startupvillage.ru">https://startupvillage.ru</a><br>С
+ тартапы\, AI\, финтех\, облака\, hardware
+LAST-MODIFIED:20251002T103314Z
+LOCATION:РФ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Skolkovo Startup Village (форум+выставка\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: Skolkovo Startup Village (форум+выставка\, РФ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260601
+DTSTAMP:20251006T120738Z
+UID:event47@custom.calendar
+CREATED:20250924T085033Z
+DESCRIPTION:<b>нет инф о ближайшем мероприятии</b><br>Цифровая индустрия РФ
+ : импортонезависимые решения\, промышленные кейсы\, госсектор
+LAST-MODIFIED:20251006T114235Z
+LOCATION:РФ
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ЦИПР (форум\, РФ)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P30D
+DESCRIPTION:Напоминание: ЦИПР (форум\, РФ)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
